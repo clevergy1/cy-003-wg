@@ -8,4 +8,4 @@ c:\programdata\codesys v2.3\compile\plc_visu.xml
 c:\programdata\codesys v2.3\compile\vis_chonoeditor.xml
 c:\programdata\codesys v2.3\compile\vis_ctbscan01.xml
 c:\programdata\codesys v2.3\compile\vis_ctbscan01_panel.xml
-c:\programdata\codesys v2.3\compile\cy-wg-03_100vis.txt
+c:\programdata\codesys v2.3\compile\cy-wg-03_101vis.txt
